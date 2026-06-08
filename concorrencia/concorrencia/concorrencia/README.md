@@ -61,11 +61,11 @@ API funcionando: ![API funcionando](images/API%20funcionando.png)
 
 Banco H2: ![Banco H2](images/h2-console.png.jpeg)
 
-Configuração do JMeter: ![Configuração do JMeter](images/Configuração%20do%20JMeter.png)
+Configuração do JMeter: ![Configuração do JMeter](images/Configuração%20do%20JMeter.jpeg)
 
-Resultado do JMeter: ![Resultado do JMeter](images/Resultado%20do%20teste%20no%20JMeter.png)
+Resultado do JMeter: ![Resultado do JMeter](images/Resultado%20do%20JMeter.jpeg)
 
-View Results Tree: ![View Results Tree](images/View%20Results%20Tree.png)
+View Results Tree: ![View Results Tree](images/View%20Results%20Tree.jpeg)
 
 ## Observação Final
 ### Conclusão
